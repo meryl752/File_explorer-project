@@ -27,7 +27,11 @@ C'est un explorateur de fichiers que nous avons créé avec **Tkinter**, un modu
 - Ajout d'un menu contextuel (clic droit) pour chaque élément de la liste avec les options : **Ouvrir, Supprimer, Renommer**.
 - Implémentation des fonctionnalités associées.
 
-![Vidéo de navigation](screen/Video1.mp4)
+
+
+https://github.com/user-attachments/assets/5650ca3c-4720-46f2-8c0d-2209b87a9a80
+
+
 
 ### 📁 Création de Nouveaux Dossiers
 - Ajout d'un bouton ou d'une option permettant à l'utilisateur de créer un **nouveau dossier** dans le répertoire courant.
